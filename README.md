@@ -27,7 +27,7 @@ CSS, JavaScript, and React.</p>
 <h2>:chart_with_upwards_trend: Github Stats<h2/>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak123bharat&show_icons=true&locale=en&layout=compact" alt="deepak" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak123bharat&show_icons=true&locale=en" alt="deepak" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak123bharat&" alt="deepak" /></p>
